@@ -70,7 +70,7 @@ They were born out of the need to automate repetitive tasks, visualize complex d
 ## 🛠️ Dependencies
 
 - **System**: Linux cluster with SLURM workload manager.
-- **Python**: 3.6+
+- **Python**: 3.0+
 - **Python Libraries**:
   ```bash
   pip install numpy matplotlib pyyaml
